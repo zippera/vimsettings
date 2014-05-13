@@ -14,6 +14,10 @@ Plugins
 - [Vundle](https://github.com/gmarik/Vundle.vim#about)：插件管理。
 - [supertab](https://github.com/ervandew/supertab)
 - [jedi-vim](https://github.com/davidhalter/jedi-vim)
+- [vim-jade](https://github.com/digitaltoad/vim-jade)
+- [html.vim](http://www.vim.org/scripts/script.php?script_id=2075): indent improved
+- [emmet-vim](https://github.com/mattn/emmet-vim): zen coding in vim, a tutorial is [here](http://www.zfanw.com/blog/zencoding-vim-tutorial-chinese.html)
+- [vim-airline](https://github.com/bling/vim-airline): awsome statusline
 
 <!--[YouCompleteMe](https://github.com/Valloric/YouCompleteMe)：没有包含 c-family language.-->
 
