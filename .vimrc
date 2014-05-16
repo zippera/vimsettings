@@ -31,7 +31,7 @@ set background=dark
 colorscheme solarized
 
 let Tlist_Ctags_Cmd="/usr/local/bin/ctags"
-let Tlist_Use_Right_Window=1
+let Tlist_Use_Left_Window=1
 let Tlist_Exit_OnlyWindow = 1
 let Tlist_Auto_Update = 1
 let Tlist_Compact_Format=1
@@ -55,3 +55,13 @@ set pastetoggle=<F9>
 
 let python_highlight_all = 1
 let python_version_2 = 1
+
+let g:nerdtree_tabs_open_on_console_startup = 1
+let g:nerdtree_tabs_open_on_gui_startup = 1
+
+let g:NERDTreeWinPos = "right"
+let NERDTreeShowBookmarks=1
+
+set laststatus=2
+
+set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1

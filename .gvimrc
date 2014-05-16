@@ -1,3 +1,3 @@
-set guifont=Monaco:h14
+set guifont=Monaco:h16
 set background=dark
-colorscheme molokai 
+colorscheme molokai
